@@ -9,6 +9,7 @@ This beginner-friendly project will guide you through setting up a personal webs
 ### Step #1: Design Your Website
 - Design your own personal website or download an existing template.
 - You can find free templates at [free-css.com](http://free-css.com).
+- You can find free templates at [html.design](https://html.design/).
 
 ### Step #2: Set Up Amazon S3 Bucket
 - Go to the AWS Management Console and open the Amazon S3 console.
